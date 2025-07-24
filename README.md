@@ -6,3 +6,8 @@ npm run build
 
 # テストの実行
 npm test
+
+
+npm install
+
+npm start 
